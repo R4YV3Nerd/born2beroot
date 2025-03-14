@@ -16,7 +16,8 @@ etc ...
 `grep`  
 `if conditions`  
 `wall`  
-`awk`
+`awk`  
+`crontab`   
 
 ***I believe that every 42 project has a rich IT vocabulary behind it.***  
 -> this one's goal is to deep dive into the VMs conception and how they work.
